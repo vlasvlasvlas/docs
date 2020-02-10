@@ -9,7 +9,7 @@ Find the Scan Form Designer inside a tab in the :doc:`app-designer-intro` using 
 
 .. warning::
 
-  You muse use :program:`Google Chrome`; other web browsers are not compatible at this time.
+  You must use :program:`Google Chrome`; other web browsers are not compatible at this time.
 
 A basic overview of the steps to design a form are:
 
